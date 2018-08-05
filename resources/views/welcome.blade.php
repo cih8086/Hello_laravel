@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello Wrod!!!!
+                    第一个Laravel程序
                 </div>
 
                 <div class="links">
